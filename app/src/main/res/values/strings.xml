@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GiphyTrends</string>
+
+    <string name="giphy_api_key">TjsoAM2wV1aaeDbLuKisX7uJlsH8Axqo</string>
+
+    <string name="tab_trending">Trending</string>
+
+    <string name="tab_favorite">Favorites</string>
+
+    <string name="title_activity_gif_detail">Gif Details</string>
+</resources>
